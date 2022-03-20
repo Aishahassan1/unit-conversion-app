@@ -1,54 +1,52 @@
-html, body {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-    text-align: center;
+html,
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  text-align: center;
 }
 
 h1 {
-    font-size: 97.57px;
+  font-size: 97.57px;
 }
 
 .container {
-    width: 550px;
-    height: 550px;
-    margin: auto;
-    margin-top: 30px;
+  width: 550px;
+  height: 550px;
+  margin: auto;
+  margin-top: 30px;
 }
 
 .conversion-ctr {
-    background: linear-gradient(#05795A, #10B680);
-    max-width: 550px;
-    min-height: 260px;
-    color: #fff;
-    margin-bottom: -16px;
-    padding-top: 50px;
+  background: linear-gradient(#05795a, #10b680);
+  max-width: 550px;
+  min-height: 260px;
+  color: #fff;
+  margin-bottom: -16px;
+  padding-top: 50px;
 }
 
-.result-ctr {
-    max-width: 550px;
-    min-height: 260px;   
-    background: #1F2937;
-    color: #fff;
-    padding-top: 50px;
-
+.result-container {
+  max-width: 550px;
+  min-height: 260px;
+  background: #1f2937;
+  color: #fff;
+  padding-top: 50px;
 }
 
-.result-head {
-    font-weight: 600;
+.result-heading {
+  font-weight: 600;
 }
 
-.result-head-top {
-    font-size: 25px;
-    font-weight: 600;
-
-
+.result-heading-top {
+  font-size: 25px;
+  font-weight: 600;
 }
 
 input {
-    background: #05795A;
-    color: #fff;
-    font-size: 95.57px;
-    text-align: center;
-    max-width: 160px;
+  background: #035f47;
+  color: #fff;
+  font-size: 95.57px;
+  text-align: center;
+  max-width: 160px;
 }
